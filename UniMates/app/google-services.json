@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "290536381174",
+    "project_id": "roomatefinder-c6cc0",
+    "storage_bucket": "roomatefinder-c6cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290536381174:android:92ba163c59fc58d7f66ad7",
+        "android_client_info": {
+          "package_name": "com.example.hommate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoYM9te-VX16rF0YlZi_qsS3zJ3jYC_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290536381174:android:7b4a93c49be256a8f66ad7",
+        "android_client_info": {
+          "package_name": "com.example.roommatefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoYM9te-VX16rF0YlZi_qsS3zJ3jYC_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290536381174:android:2815284e183494c9f66ad7",
+        "android_client_info": {
+          "package_name": "com.example.unimates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoYM9te-VX16rF0YlZi_qsS3zJ3jYC_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290536381174-mup2nan58qnvmqobcgss9fo6ckonvnc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

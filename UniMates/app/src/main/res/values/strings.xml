@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UniMates</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="e_mail">E-Mail</string>
+
+    <string-array name="spinner_items">
+        <item>Choose</item>
+        <item>Looking for accommodation</item>
+        <item>Looking for roommate</item>
+        <item>Not searching</item>
+    </string-array>
+</resources>
